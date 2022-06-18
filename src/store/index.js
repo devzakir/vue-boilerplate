@@ -1,6 +1,6 @@
-import { createStore } from 'vuex';
+import { createPinia } from 'pinia';
 
-export default createStore({
+export default createPinia({
   state: {
   },
   getters: {
