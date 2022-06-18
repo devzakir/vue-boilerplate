@@ -4210,6 +4210,11 @@ klona@^2.0.4, klona@^2.0.5:
   resolved "https://registry.yarnpkg.com/klona/-/klona-2.0.5.tgz#d166574d90076395d9963aa7a928fabb8d76afbc"
   integrity sha512-pJiBpiXMbt7dkzXe8Ghj/u4FfXOOa98fPW+bihOJ4SjnoijweJrNThJfd3ifXpXhREjpoF2mZVH1GfS9LV3kHQ==
 
+konsta@^0.10.4:
+  version "0.10.4"
+  resolved "https://registry.yarnpkg.com/konsta/-/konsta-0.10.4.tgz#518226878e5b9bd1df0a0a45eb5116c1b5296e2b"
+  integrity sha512-XYfzKaWHIGPrat2/3l8373/vCeTBWdgMOtGVBzpsQNX/rInRu+QeRrO/kt7lVN9sGaQEwhsd7VhW1tEjglxVxA==
+
 launch-editor-middleware@^2.2.1:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/launch-editor-middleware/-/launch-editor-middleware-2.4.0.tgz#0c3f24608fa69e4ae00d5d1c89f34bf0ba25a8f4"
